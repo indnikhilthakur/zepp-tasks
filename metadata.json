@@ -1,0 +1,5 @@
+{
+  "name": "ZeppBuilder AI",
+  "description": "A visual low-code editor for creating Zepp OS (Amazfit Balance) watch apps. Design visually or use Gemini AI to generate layouts, then export the ready-to-use JavaScript code.",
+  "requestFramePermissions": []
+}
